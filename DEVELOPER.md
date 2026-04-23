@@ -35,6 +35,7 @@ Provides router-aware UI helpers so applications can compose navigation-aware co
 | Package ID | `ui-router` |
 | Display Name | UI Router |
 | Import Name | `@platform/ui-router` |
+| Canonical Namespace Target | `@gutu/ui-router` |
 | Version | `0.1.0` |
 | UI Surface | Mixed runtime helpers |
 | Consumption Model | Imports + typed UI primitives |
@@ -48,6 +49,7 @@ Provides router-aware UI helpers so applications can compose navigation-aware co
 | Dev Dependencies | None |
 | React Runtime | Yes |
 | Workspace Scoped | Yes |
+| Legacy Compatibility IDs | `@platform/ui-router` |
 
 ### Dependency interpretation
 

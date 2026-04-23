@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-ui-router",
   "packageId": "ui-router",
   "displayName": "UI Router",
+  "packageCount": 1,
   "group": "UI Foundation",
   "maturity": "Hardened",
   "description": "TanStack Router wrapper APIs.",
